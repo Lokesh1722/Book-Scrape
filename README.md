@@ -92,5 +92,6 @@ Run the Jupyter notebooks
 jupyter notebook
 
 Conclusion
+
 This project successfully demonstrates how web scraping and data analysis can be used to extract useful insights from an online bookstore.   
 It highlights how category, ratings, and availability play a major role in book pricing and helps users understand market trends better.    
